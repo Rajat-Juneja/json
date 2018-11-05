@@ -1,0 +1,11 @@
+{ "products": [{ "url": "http://www.samsung.com/global/galaxy/galaxy-s8/images/gallery/galaxy-s8-plus_gallery_front_black_s4.png", "id": 1001, "name": "Galaxy S8", "price": 70000 }, 
+{ "url": "https://www.att.com/catalog/en/skus/images/apple-iphone%20x-space%20gray-450x350.png", "id": 1002, "name": "Iphone X", "price": 65000 },
+{ "url": "https://www.91-img.com/pictures/127895-v11-vivo-v11-mobile-phone-large-1.jpg", "id": 1003, "name": "Vivo V11 Pro", "price": 15000 }, 
+{ "url": "https://www.91-img.com/pictures/128663-v7-oppo-f9-mobile-phone-large-1.jpg", "id": 1004, "name": "Oppo F9", "price": 17000 },
+{ "url": "https://shop.ee.co.uk/medias/samsung-galaxy-s9-plus-lilac-purple-front-Format-960?context=bWFzdGVyfHJvb3R8MzQ4MzZ8aW1hZ2UvanBlZ3xzeXMtbWFzdGVyL3Jvb3QvaGU2L2gwNS85MjY4NDQ1NTc3MjQ2L3NhbXN1bmctZ2FsYXh5LXM5LXBsdXMtbGlsYWMtcHVycGxlLWZyb250X0Zvcm1hdC05NjB8OGZiYmVkYjVkOGExYzY0NTA5NTcyZjk5NTQ3MzFjNjE3N2JkYjZhNmE5YzQ0OTI1ZjUzZmRlN2Y0MTJkN2I5Mw", "id": 1005, "name": "Galaxy S9+", "price": 65000 }, 
+{ "url": "https://www.singtel.com/content/dam/singtel/eshop/Mobile/Handset/Apple/iPhone%20Xs%20Max/iphone-xs-max-gold-01.jpg", "id": 1006, "name": "Iphone XS Max", "price": 100000 },
+{ "url": "https://cdn.macrumors.com/article-new/2018/10/iphone-xr-product-red.jpg", "id": 1007, "name": "Iphone XR", "price": 55000 }, 
+{ "url": "https://image.coolblue.nl/422x390/products/871336", "id": 1008, "name": "Galaxy Note 8", "price": 85000 },
+{ "url": "https://www.sketchappsources.com/resources/source-image/oneplus-6t-mockup-mallendeo.png", "id": 1009, "name": "OnePlus 6T", "price": 40000 }, 
+{ "url": "https://i.gadgets360cdn.com/products/large/1526490365_635_oneplus_6.jpg", "id": 1010, "name": "OnePlus 6", "price": 30000 }
+] }
